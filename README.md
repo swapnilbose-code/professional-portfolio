@@ -1,57 +1,67 @@
 # 👋 Hi, I'm Swapnil Bose
 
-🎯 Data Analyst with ~7 years of experience in Banking, Insurance, and Healthcare domains, transitioning from a strong background in data validation and analysis.
+**QA Professional with 7+ years of experience** across Banking, Insurance, and Healthcare domains, with hands-on expertise in **SQL, data validation, reporting, business intelligence, and dashboard development**.
 
-I specialize in turning raw data into actionable insights using SQL, Power BI, and Excel.
+I have worked extensively with data validation and analysis, and have built practical projects using **SQL, Power BI, and Excel** to analyze datasets, identify trends, and present business insights.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Data Analysis:** SQL, Excel, Exploratory Data Analysis (EDA)
-- **Data Visualization:** Power BI (DAX, Data Modeling, Dashboard Development)
-- **Database:** MySQL
-- **Core Skills:** Data Cleaning, Data Validation, Data Transformation, Business Insights
+* **SQL & Databases:** SQL, MySQL, Joins, CTEs, Window Functions, Data Validation
+* **Business Intelligence:** Power BI, DAX, Data Modeling, Dashboard Development
+* **Data & Reporting:** Excel, Pivot Tables, Advanced Formulas, Exploratory Data Analysis (EDA)
+* **Data Quality:** Data Cleaning, Data Validation, Data Transformation, Requirement Analysis
+* **QA & Testing:** Functional Testing, Regression Testing, System Testing, Integration Testing, Defect Management
+* **Methodologies:** Agile / Scrum, SDLC, STLC
 
 ---
 
 ## 📊 Projects Portfolio
 
 ### 🔹 Sales Performance Dashboard
-📌 Tools: Excel  
-- Built an interactive dashboard to analyze sales, profit, and regional performance  
-- Identified key revenue drivers and sales trends  
-- Enabled data-driven decision-making using dynamic charts and slicers  
+
+**Tools:** Excel
+
+* Built an interactive dashboard to analyze sales, profit, and regional performance
+* Identified key revenue drivers and sales trends
+* Used dynamic charts, slicers, and KPI reporting to support business analysis
 
 👉 [View Project](./Sales-Dashboard)
 
 ---
 
 ### 🔹 Banking Risk Analysis
-📌 Tools: SQL, Power BI  
-- Analyzed loan data to identify high-risk customers and default patterns  
-- Calculated default rates and performed risk segmentation  
-- Supported better lending decisions through insights  
+
+**Tools:** SQL, Power BI
+
+* Analyzed loan data to identify high-risk customers and default patterns
+* Calculated default rates and performed risk segmentation
+* Developed Power BI visualizations to present key risk indicators and trends
 
 👉 [View Project](./Banking-Risk-Analysis)
 
 ---
 
 ### 🔹 Customer Churn Analysis
-📌 Tools: SQL, Power BI  
-- Identified key factors contributing to customer churn  
-- Analyzed churn by contract type, payment method, and tenure  
-- Provided insights to improve customer retention  
+
+**Tools:** SQL, Power BI
+
+* Analyzed customer data to identify patterns associated with churn
+* Evaluated churn across contract type, payment method, and customer tenure
+* Developed interactive Power BI dashboards to present key findings and trends
 
 👉 [View Project](./Customer-Churn-Analysis)
 
 ---
 
 ### 🔹 HR Analytics Dashboard
-📌 Tools: Excel  
-- Developed an interactive dashboard to analyze employee attrition and workforce trends  
-- Identified key factors influencing employee turnover  
-- Enabled HR teams to make data-driven decisions using dynamic reporting  
+
+**Tools:** Excel
+
+* Developed an interactive dashboard to analyze employee attrition and workforce trends
+* Examined attrition across relevant employee and organizational dimensions
+* Created dynamic reporting using Excel-based analysis and visualization
 
 👉 [View Project](./HR-Analytics)
 
@@ -59,24 +69,20 @@ I specialize in turning raw data into actionable insights using SQL, Power BI, a
 
 ## 📈 Key Highlights
 
-- ✔ Strong experience working with **large datasets**
-- ✔ Expertise in **SQL-based data analysis and validation**
-- ✔ Hands-on experience in **Power BI dashboard development**
-- ✔ Ability to translate **business requirements into actionable insights**
+* ✔ 7+ years of professional experience across **Banking, Insurance, and Healthcare**
+* ✔ Strong expertise in **data validation and SQL-based analysis**
+* ✔ Hands-on experience with **Power BI, DAX, Data Modeling, and dashboard development**
+* ✔ Strong understanding of **data quality, business requirements, and reporting**
+* ✔ Experience working with **large datasets and cross-functional stakeholders**
+* ✔ Ability to translate business requirements into **structured analysis and meaningful insights**
 
 ---
 
-## 🎯 Career Objective
+## 🔗 Connect With Me
 
-Seeking a **Data Analyst role** where I can leverage my analytical skills, domain experience, and data visualization expertise to drive business insights and decision-making.
-
----
-
-## 📬 Connect With Me
-
-- 💼 LinkedIn: linkedin.com/in/swapnilbose
-- 📧 Email: swapnilbose3@gmail.com
+* 💼 LinkedIn: linkedin.com/in/swapnilbose
+* 📧 Email: [swapnilbose3@gmail.com](mailto:swapnilbose3@gmail.com)
 
 ---
 
-⭐ If you like this portfolio, feel free to explore the projects and connect!
+⭐ Feel free to explore the projects and connect with me.
