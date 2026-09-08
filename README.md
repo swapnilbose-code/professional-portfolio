@@ -31,7 +31,7 @@ Analyzed 25K+ insurance policies and 10K+ claims to evaluate product profitabili
 
 ### 🔹 Customer Churn Analysis
 
-**Tools: Power BI | SQL**
+**Power BI | SQL**
 
 * Analyzed customer data to identify patterns associated with churn
 * Evaluated churn across contract type, payment method, and customer tenure
@@ -43,7 +43,7 @@ Analyzed 25K+ insurance policies and 10K+ claims to evaluate product profitabili
 
 ### 🔹 Sales Performance Dashboard
 
-**Tools:** Excel
+**Excel** 
 
 * Built an interactive dashboard to analyze sales, profit, and regional performance
 * Identified key revenue drivers and sales trends
@@ -55,7 +55,7 @@ Analyzed 25K+ insurance policies and 10K+ claims to evaluate product profitabili
 
 ### 🔹 HR Analytics Dashboard
 
-**Tools:** Excel
+**Excel**
 
 * Developed an interactive dashboard to analyze employee attrition and workforce trends
 * Examined attrition across relevant employee and organizational dimensions
@@ -67,7 +67,7 @@ Analyzed 25K+ insurance policies and 10K+ claims to evaluate product profitabili
 
 ### 🔹 Banking Risk Analysis
 
-**Tools:** SQL, Power BI
+**Power BI | SQL**
 
 * Analyzed loan data to identify high-risk customers and default patterns
 * Calculated default rates and performed risk segmentation
