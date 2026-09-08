@@ -25,7 +25,7 @@ I have worked extensively with data validation and analysis, and have built prac
 
 Analyzed 25K+ insurance policies and 10K+ claims to evaluate product profitability, customer risk, agent performance, claims behavior, and regional trends using an interactive 5-page Power BI dashboard.
 
-[View Project](./Insurance-Claims-Policy-Analytics)
+👉 [View Project](./Insurance-Claims-Policy-Analytics)
 
 ---
 
