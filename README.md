@@ -31,7 +31,7 @@ Analyzed 25K+ insurance policies and 10K+ claims to evaluate product profitabili
 
 ### 🔹 Customer Churn Analysis
 
-**Power BI | SQL 
+**Tools: Power BI | SQL**
 
 * Analyzed customer data to identify patterns associated with churn
 * Evaluated churn across contract type, payment method, and customer tenure
