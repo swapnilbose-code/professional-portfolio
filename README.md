@@ -19,27 +19,13 @@ I have worked extensively with data validation and analysis, and have built prac
 
 ## 📊 Projects Portfolio
 
-### 🔹 Sales Performance Dashboard
+### Insurance Claims & Policy Performance Analytics
 
-**Tools:** Excel
+**Power BI | DAX | Power Query | SQL | Data Modeling | Insurance Analytics**
 
-* Built an interactive dashboard to analyze sales, profit, and regional performance
-* Identified key revenue drivers and sales trends
-* Used dynamic charts, slicers, and KPI reporting to support business analysis
+Analyzed 25K+ insurance policies and 10K+ claims to evaluate product profitability, customer risk, agent performance, claims behavior, and regional trends using an interactive 5-page Power BI dashboard.
 
-👉 [View Project](./Sales-Dashboard)
-
----
-
-### 🔹 Banking Risk Analysis
-
-**Tools:** SQL, Power BI
-
-* Analyzed loan data to identify high-risk customers and default patterns
-* Calculated default rates and performed risk segmentation
-* Developed Power BI visualizations to present key risk indicators and trends
-
-👉 [View Project](./Banking-Risk-Analysis)
+[View Project](./Insurance-Claims-Policy-Analytics)
 
 ---
 
@@ -55,6 +41,18 @@ I have worked extensively with data validation and analysis, and have built prac
 
 ---
 
+### 🔹 Sales Performance Dashboard
+
+**Tools:** Excel
+
+* Built an interactive dashboard to analyze sales, profit, and regional performance
+* Identified key revenue drivers and sales trends
+* Used dynamic charts, slicers, and KPI reporting to support business analysis
+
+👉 [View Project](./Sales-Dashboard)
+
+---
+
 ### 🔹 HR Analytics Dashboard
 
 **Tools:** Excel
@@ -66,6 +64,17 @@ I have worked extensively with data validation and analysis, and have built prac
 👉 [View Project](./HR-Analytics)
 
 ---
+
+### 🔹 Banking Risk Analysis
+
+**Tools:** SQL, Power BI
+
+* Analyzed loan data to identify high-risk customers and default patterns
+* Calculated default rates and performed risk segmentation
+* Developed Power BI visualizations to present key risk indicators and trends
+
+👉 [View Project](./Banking-Risk-Analysis)
+
 
 ## 📈 Key Highlights
 
